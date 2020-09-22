@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 22 15:23:29 IST 2020
+e6193d7d75e1e07e91f0e6950ff9582656ad7d54@proxy.example.com\:3128>e6193d7d75e1e07e91f0e6950ff9582656ad7d54@default-central-mirror-https\://central-mirror.example.com/maven2/.lastUpdated=1600768409929
+https\://central-mirror.example.com/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web-services\:pom\:2.1.4.RELEASE from/to central-mirror (https\://central-mirror.example.com/maven2)\: proxy.example.com
